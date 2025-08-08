@@ -40,6 +40,6 @@ const server = http.createServer((req, res)=>{
 
 })
 
-server.listen(3000, 'localhost', ()=>{
-    console.log('Ouvindo na porta 3000');
+server.listen(3009, 'localhost', ()=>{
+    console.log('Ouvindo na porta 3009');
 })
